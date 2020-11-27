@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/small-shop-basir/static/css/main.c5d89187.chunk.css",
+    "main.js": "/small-shop-basir/static/js/main.98ac97e6.chunk.js",
+    "main.js.map": "/small-shop-basir/static/js/main.98ac97e6.chunk.js.map",
+    "runtime-main.js": "/small-shop-basir/static/js/runtime-main.9df3fddd.js",
+    "runtime-main.js.map": "/small-shop-basir/static/js/runtime-main.9df3fddd.js.map",
+    "static/js/2.68a2cd12.chunk.js": "/small-shop-basir/static/js/2.68a2cd12.chunk.js",
+    "static/js/2.68a2cd12.chunk.js.map": "/small-shop-basir/static/js/2.68a2cd12.chunk.js.map",
+    "index.html": "/small-shop-basir/index.html",
+    "static/css/main.c5d89187.chunk.css.map": "/small-shop-basir/static/css/main.c5d89187.chunk.css.map",
+    "static/js/2.68a2cd12.chunk.js.LICENSE.txt": "/small-shop-basir/static/js/2.68a2cd12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9df3fddd.js",
+    "static/js/2.68a2cd12.chunk.js",
+    "static/css/main.c5d89187.chunk.css",
+    "static/js/main.98ac97e6.chunk.js"
+  ]
+}
